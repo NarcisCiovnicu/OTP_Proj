@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/1dXL3XksOvzxXZs8ZCvSwNQytekcjjx9v9OdXTlOVpqTPoILeTwNGavwgElVRzJvvtSS4p+ylsgivlcDg2vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proj\\OneTimePassword\\OneTimePassword\\OneTimePassword.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\localremote\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\localremote\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\localremote\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

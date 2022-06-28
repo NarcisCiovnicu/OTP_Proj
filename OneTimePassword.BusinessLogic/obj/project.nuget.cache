@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3IeRHZiNfTLtG4WUbIjvUOifUkGrJDCnJA+m9djuzjQCMT09v62jjsq3tgShE+pPaOTi06gsTF8/C/4v3OYlw==",
+  "success": true,
+  "projectFilePath": "C:\\Proj\\OneTimePassword\\OneTimePassword.BusinessLogic\\OneTimePassword.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\localremote\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\localremote\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\localremote\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
